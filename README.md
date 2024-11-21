@@ -1,5 +1,5 @@
 # 🚀 Zirello
-- **Live Demo:** [https://zirello.web.app](https://zirello.web.app)
+**Live Demo:** [https://zirello.web.app](https://zirello.web.app)
 
 
 Hi, I'm **Emre**, a **Junior Frontend Developer** with experience in modern web technologies like React, TypeScript, Node.js, and Firebase. Zirello is a showcase of my skills, developed to demonstrate my passion for creating user-friendly, responsive, and high-performance web applications.
