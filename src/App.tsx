@@ -7,7 +7,7 @@ import Navbar from "./components/Navbar"; // Navbar bileşenini içe aktarıyoru
 import { useContext, useEffect } from "react";
 import { MainContext } from "./context/Context";
 import Notification from "./components/Notification";
-import Boards2 from "./pages/Boards2";
+import Boards2 from "./pages/Boards";
 import NavbarHome from "./components/NavbarHome";
 
 function App() {

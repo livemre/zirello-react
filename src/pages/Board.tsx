@@ -19,7 +19,7 @@ import {
   DropResult,
   Droppable,
 } from "@hello-pangea/dnd";
-import reorder, { reorderItemsMap } from "../utilits/reorder";
+import reorder, { reorderItemsMap } from "../utilities/reorder";
 import { Timestamp, doc, getFirestore, writeBatch } from "firebase/firestore";
 import myFirebaseApp from "../context/firebaseConfig";
 import Navbar from "../components/Navbar";
