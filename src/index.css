@@ -1,0 +1,13 @@
+body {
+  font-family: "Inter", Verdana;
+}
+
+input,
+textarea,
+select {
+  font-size: 16px;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
