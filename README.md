@@ -1,4 +1,6 @@
 # 🚀 Zirello
+- **Live Demo:** [https://zirello.web.app](#)
+
 
 Hi, I'm **Emre**, a **Junior Frontend Developer** with experience in modern web technologies like React, TypeScript, Node.js, and Firebase. Zirello is a showcase of my skills, developed to demonstrate my passion for creating user-friendly, responsive, and high-performance web applications.
 
@@ -34,6 +36,4 @@ I built the **Zirello website** with the following features:
 
 If you'd like to know more about me or collaborate on a project, feel free to reach out!
 
-- **GitHub:** [GitHub Profile Link](#)
-- **LinkedIn:** [LinkedIn Profile Link](#)
-- **Email:** [Your Email Address](#)
+- **Email:** [qaradumanemre@gmail.com](#)
